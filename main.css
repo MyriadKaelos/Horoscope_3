@@ -1,0 +1,35 @@
+body {
+    background-color: silver;
+}
+.silver {
+    color: darkslategray;
+    text-shadow: darkgrey 2px 2px 6px;
+    position: relative;
+    text-align: center;
+}
+input, button {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+input:focus, button:focus {
+    outline: none;
+}
+div {
+    background-color: lightgray;
+    border: solid 1px darkgrey;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 33%;
+}
+.horoStuff {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    border: none;
+    text-align: center;
+    alignment: center;
+}
